@@ -1,0 +1,11 @@
+C:\Users\каплин станислав\source\repos\SeaWar\SeaWar\bin\Debug\SeaWar.exe.config
+C:\Users\каплин станислав\source\repos\SeaWar\SeaWar\bin\Debug\SeaWar.exe
+C:\Users\каплин станислав\source\repos\SeaWar\SeaWar\bin\Debug\SeaWar.pdb
+C:\Users\каплин станислав\source\repos\SeaWar\SeaWar\obj\Debug\SeaWar.csproj.AssemblyReference.cache
+C:\Users\каплин станислав\source\repos\SeaWar\SeaWar\obj\Debug\SeaWar.csproj.SuggestedBindingRedirects.cache
+C:\Users\каплин станислав\source\repos\SeaWar\SeaWar\obj\Debug\SeaWar.Form1.resources
+C:\Users\каплин станислав\source\repos\SeaWar\SeaWar\obj\Debug\SeaWar.Properties.Resources.resources
+C:\Users\каплин станислав\source\repos\SeaWar\SeaWar\obj\Debug\SeaWar.csproj.GenerateResource.cache
+C:\Users\каплин станислав\source\repos\SeaWar\SeaWar\obj\Debug\SeaWar.csproj.CoreCompileInputs.cache
+C:\Users\каплин станислав\source\repos\SeaWar\SeaWar\obj\Debug\SeaWar.exe
+C:\Users\каплин станислав\source\repos\SeaWar\SeaWar\obj\Debug\SeaWar.pdb
